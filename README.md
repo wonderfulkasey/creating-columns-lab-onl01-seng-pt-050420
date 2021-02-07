@@ -8,6 +8,11 @@ in many different ways, following a few simple patterns can help us achieve
 clean code and a clean column-based look.
 
 
+
+
+
+
+
 ## Objectives
 
 1. Practice writing and employing a column based CSS rule set
